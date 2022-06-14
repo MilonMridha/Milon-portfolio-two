@@ -22,11 +22,11 @@ const Home = () => {
               yarn
               start
               data-aos-duration="1000"
-              className="uppercase font-semibold my-7 text-left text-3xl lg:text-6xl text-white leading-snug"
+              className="font-semibold font-mono my-7 text-left text-3xl lg:text-6xl text-white leading-snug"
             >
-              Hi, I'm <span className="text-secondary">Milon Mridha</span>
+              Hi, I'm <span className="text-secondary">Milon Mridha!</span>
               <br />
-              <span className="text-yellow-500">
+              <span className="text-yellow-400">
                 <Typed
                   strings={[
                     "A MERN Developer",

@@ -93,7 +93,7 @@ const ProjectDetails = () => {
         "React",
         "Tailwind",
         "DaisyU",
-        "ExpresJs",
+        "ExpressJs",
         "MongoDB",
         "Stripe",
       ],

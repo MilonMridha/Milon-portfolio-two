@@ -78,7 +78,7 @@ const Contact = () => {
             </h5>
             <div className="flex gap-5">
               <a
-                href="https://github.com/emonmorol"
+                href="https://github.com/MilonMridha"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -88,7 +88,7 @@ const Contact = () => {
                 </div>
               </a>
               <a
-                href="https://www.linkedin.com/in/ekramul-hasan/"
+                href="https://www.linkedin.com/in/milon2022/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -98,7 +98,7 @@ const Contact = () => {
                 </div>
               </a>
               <a
-                href="https://www.facebook.com/ekramul.hasan.morol/"
+                href="https://www.facebook.com/milon.mridha.71"
                 target="_blank"
                 rel="noreferrer"
               >

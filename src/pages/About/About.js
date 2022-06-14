@@ -8,7 +8,7 @@ const About = () => {
       <div className="flex flex-col gap-10 items-center justify-center max-w-7xl mx-auto p-5">
         <div className="flex flex-col lg:flex-row p-4 justify-center items-center gap-10 w-full mb-32">
           <div className="about-box w-64 lg:w-96 h-860 overflow-hidden">
-            <img
+            <img style={{width: "500px",height: "650px"}}
               className="inside-img w-64 lg:w-96 h-830"
               src={profile}
               alt=""
@@ -49,7 +49,7 @@ const About = () => {
                 </h5>
                 <div className="flex gap-5">
                   <a
-                    href="https://github.com/emonmorol"
+                    href="https://github.com/MilonMridha"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -59,7 +59,7 @@ const About = () => {
                     </div>
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/ekramul-hasan/"
+                    href="https://www.linkedin.com/in/milon2022/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -69,7 +69,7 @@ const About = () => {
                     </div>
                   </a>
                   <a
-                    href="https://www.facebook.com/ekramul.hasan.morol/"
+                    href="https://www.facebook.com/milon.mridha.71"
                     target="_blank"
                     rel="noreferrer"
                   >
