@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../../assets/images/ekramul.png";
+import profile from "../../assets/images/milon-3.png";
 import "./About.css";
 
 const About = () => {
@@ -16,7 +16,7 @@ const About = () => {
           </div>
           <div className="flex flex-col items-start">
             <h2 className="text-4xl text-secondary font-bold ">
-              Ekramul Hasan
+              Milon Mridha
             </h2>
             <p className=" text-sm">Web Developer</p>
             <div className="text-center lg:text-left w-full my-4">
@@ -38,8 +38,8 @@ const About = () => {
                 Contact Information
               </h2>
               <div>
-                Email: ekramulhasanmorol@gmail.com <br /> Phone: +8801614714958{" "}
-                <br /> Address: Dhaka, Bangladesh
+                Email: milon90phero@gmail.com <br /> Phone: +8801681557479{" "}
+                <br /> Address: Gazipur, Bangladesh
               </div>
             </div>
             <div className="text-accent flex flex-col lg:flex-row gap-10 lg:gap-10 justify-between pr-0 lg:pr-36 mt-3">

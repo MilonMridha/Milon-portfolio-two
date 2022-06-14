@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="footer-content pb-10 -mt-10">
       <footer className="footer justify-center items-center gap-24 p-10 text-neutral-content max-w-7xl mx-auto">
         <div className="flex flex-col items-center justify-center">
-          <h2>Ekramul Hasan</h2>
+          <h2>Milon Mridha</h2>
           <p className="text-gray-600">All Rights Reserved @ Ekramul Hasan</p>
         </div>
         <div>

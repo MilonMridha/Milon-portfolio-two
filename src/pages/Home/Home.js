@@ -1,5 +1,5 @@
 import React from "react";
-import ekramul from "../../assets/images/ekramul.png";
+import ekramul from "../../assets/images/milon-3.png";
 import "./Home.css";
 import Typed from "react-typed";
 import { HashLink as Link } from "react-router-hash-link";
@@ -24,12 +24,12 @@ const Home = () => {
               data-aos-duration="1000"
               className="uppercase font-semibold my-7 text-left text-3xl lg:text-6xl text-white leading-snug"
             >
-              Hi, I'm <span className="text-secondary">Ekramul Hasan</span>
+              Hi, I'm <span className="text-secondary">Milon Mridha</span>
               <br />
-              <span>
+              <span className="text-yellow-500">
                 <Typed
                   strings={[
-                    "A Mern Developer",
+                    "A MERN Developer",
                     "A Frontend Developer",
                     "A Backend Developer",
                     "A React.JS Developer",
@@ -58,7 +58,7 @@ const Home = () => {
             <div data-aos="zoom-in" data-aos-duration="1000">
               <a
                 className="anchor-button py-[0.85rem] px-4 lg:px-12"
-                href="https://drive.google.com/file/d/1YL9Vqn8aBaS0F8xo-eWu4DIQq9Z6DwkX/view"
+                href="https://drive.google.com/file/d/1Q-uCzixxNGz0ZzeSI4YQV2kFUXxLv8kS/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -91,7 +91,7 @@ const Home = () => {
                 className="flex gap-5"
               >
                 <a
-                  href="https://github.com/emonmorol"
+                  href="https://github.com/MilonMridha"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -101,7 +101,7 @@ const Home = () => {
                   </div>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/ekramul-hasan/"
+                  href="https://www.linkedin.com/in/milon2022/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -111,7 +111,7 @@ const Home = () => {
                   </div>
                 </a>
                 <a
-                  href="https://www.facebook.com/ekramul.hasan.morol/"
+                  href="https://www.facebook.com/milon.mridha.71"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -153,7 +153,7 @@ const Home = () => {
           data-aos-duration="2000"
           className="image w-[22rem] lg:w-[32rem] h-[25rem] lg:h-[35rem] flex justify-end bg-white relative mb-20 -mt-8 lg:mt-0"
         >
-          <img className="absolute bottom-0" src={ekramul} alt="" />
+          <img className="absolute bottom-0" style={{width: "500px",height: "650px"}} src={ekramul} alt="" />
         </div>
       </div>
     </div>

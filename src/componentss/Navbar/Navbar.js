@@ -26,7 +26,7 @@ const Navbar = () => {
                 <img src={emon} alt="" />
               </div>
               <h4 className="text-sm lg:text-lg uppercase font-extrabold font-mono">
-                Ekramul
+                Milon
               </h4>
             </div>
           </div>

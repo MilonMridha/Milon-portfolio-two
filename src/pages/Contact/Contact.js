@@ -55,7 +55,7 @@ const Contact = () => {
             <img src={contact} alt="" />
           </div>
           <h3 className="text-3xl font-semibold text-accent my-4">
-            Ekramul Hasan
+            Milon Mridha
           </h3>
           <p className="text-gray-500 text-base lg:text-lg">
             Mern Stack Developer
@@ -65,11 +65,11 @@ const Contact = () => {
             me in to my account.
             <br />
             <br />
-            Phone : <span className="text-accent ml-2">+8801614714959</span>
+            Phone : <span className="text-accent ml-2">+8801681557479</span>
             <br />
             Email :
             <span className="text-accent ml-2">
-              ekramulhasanmorol@gmail.com
+              milon90phero@gmail.com
             </span>
           </p>
           <div className="mt-5">
